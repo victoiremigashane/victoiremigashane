@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @victoiremigashane
 - 👀 I’m interested in Python
-- 🌱 I’m currently learning python with tensorflow
+- 🌱 I’m currently learning Data Science at Galvanized.com
 - 💞️ I’m looking to collaborate on michine learning projects
 - 📫 How to reach me "victoiremigashane@gmail.com"
 
